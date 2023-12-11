@@ -1,0 +1,38 @@
+header{
+    margin-left: 10px;
+}
+
+.banner{
+    height: 300px;
+    width: 90px;
+    margin-top: 50px;
+    object-fit: cover;
+}
+.headvar{
+    position: absolute;
+}
+
+h1{
+    display: inline-block;
+    margin-top: 3px;
+    margin-left: 70px;
+}
+nav{
+    position: relative;
+    left: 35%;
+    top: 15px;
+    display: inline;
+}
+
+nav a {
+background-color:rgb(192, 114, 162) ;
+padding: 4px;
+text-decoration: none;
+position: relative;
+right: -45%;
+color: rgb(102, 89, 90);
+border: black solid 1px;
+box-shadow: 2px 2px blue;
+top: -470px; ;
+}
+
