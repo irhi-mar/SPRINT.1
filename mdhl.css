@@ -1,0 +1,37 @@
+main {
+    margin-top: 2%;
+    line-height:0.2;
+    text-align: center;
+}
+
+h2 {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    font-size: 17px;
+    text-indent: 3%;
+}
+nav {
+    position: relative;
+    left: 20%;
+    top: 15px;
+    display: inline;
+}
+
+nav a {
+    background-color: rgb(57, 6, 151);
+    padding: 4px;
+    text-decoration: none;
+    position: relative;
+    right: -45%;
+    color: rgb(196, 8, 23);
+    border: black solid 1px;
+    box-shadow: 2px 2px rgb(0, 0, 8);
+    top: -470px;
+    ;
+}

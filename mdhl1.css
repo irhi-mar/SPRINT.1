@@ -1,0 +1,48 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 0%;
+    margin: 0.5%;
+    box-sizing: border-box;
+}
+
+table tr,
+th,
+td {
+    border: 3px groove red;
+    border-collapse: collapse;
+}
+table{
+    margin: 0 auto;
+    text-align: center;
+}
+
+th {
+    background-color: rgb(226, 43, 98);
+}
+h1,h2{
+    display: flex;
+    justify-content: center;
+}
+footer{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:20px;
+}
+nav {
+    position: relative;
+    left: 20%;
+    top: 15px;
+    display: inline;
+}
+
+nav a {
+    background-color: rgb(57, 6, 151);
+    padding: 4px;
+    text-decoration: none;
+    position: relative;
+    right: -45%;
+    color: rgb(196, 8, 23);
+    border: black solid 1px;
+    box-shadow: 2px 2px rgb(0, 0, 8);
+    top: -470px;
+    ;
+}
